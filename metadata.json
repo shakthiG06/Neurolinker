@@ -1,0 +1,6 @@
+
+{
+  "name": "PsycheBridge Training Portal",
+  "description": "A professional AI-powered training platform for psychology students to practice clinical skills through simulated patient interactions and receive expert staff evaluations.",
+  "requestFramePermissions": ["microphone"]
+}
